@@ -1,0 +1,3 @@
+DOCTOR,65,jose,cardiologo
+PACIENTE,99,jose
+CITA,5/4/24,99,65,cardiologo
